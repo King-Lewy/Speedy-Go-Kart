@@ -45,6 +45,14 @@ The process I will use to build it is as follows:
 
 This is just a standard process for building the go-kart, if there are any other problems that occur, I will deal with them as they come. 
 
+### How to Actually use the Go-Kart
+The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
+
+#### Turning it On, and Using it
+This might be a little self explanitory, but you would first make sure that there is enough gas and oil in the motor, then you start the engine. This will idle the motor, and won't move because of the torque converter, so to actually move, you will have to press on the pedals. The right pedal should connect to the throttle on the motor (using a throttle cable) and the farther you press down the pedal, it should open up the throttle more and more. It is the opposite for the brake cable, because you would put it on the left pedal, and it should pull on the mechanical disc brake, which closes the pads on the actual disc to slow it down. To turn the motor off, you can turn of the power on the engine. 
+
+Those are the basic practices used to start and stop the go kart. 
+
 ## Mentorship
 For my design, it requires me to know how to weld, and to make sure that my design is stable, and robust. So, after making the design, I reached out to an engineer to have him work with me and mentor me on how to make it better. This will make sure that my design is ready for high speeds
 
