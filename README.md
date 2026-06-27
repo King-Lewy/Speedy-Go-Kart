@@ -4,7 +4,7 @@ A custom go-kart powered by a predator 212cc engine designed to go 25mph+
 ![Full Go-Kart Assembly](Images/Go-kart%20picture.png)
 
 ## Inspiration
-The biggest question is why. I started this project because my friends and I found a lawnmover on the side of the road during spring clean-up. I joked to my friends that we should build a go kart during the summer when we have lots of time, so we can have a summer project
+The biggest question is why. I started this project because my friends and I found a lawnmover on the side of the road during spring clean-up. I joked to my friends that we should build a go kart during the summer when we have lots of time, so we can have a summer project.
 
 When we got out of school, I brought up making a go kart out of the lawnmower, and I had mixed reactions from my friends. I decided that I wanted to make the go kart either by myself, or with a friend that wanted to work on it a lot with me. I then did some research about what I should use for the lawnmower go-kart, and how fast it would go. I found out that it wouldn't go very fast, so I started to transition to the next phase of my project. 
 #### Getting Parts
