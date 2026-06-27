@@ -60,5 +60,5 @@ For my design, it requires me to know how to weld, and to make sure that my desi
 I have never welded, and quite simply, didn't know how they worked. So I did some research to understand the different welds, and even what a tack weld was. One big problem, is that I don't have a welder myself, but fortuatlly, a lot of my neighbors do. I have a list of people that I will reach out to, and I know that at least one of them will mentor me and teach me how to weld, and help me through the process of welding my frame. 
 
 ## Overview
-This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I do only sports, with the exception of my robotics team, even though I don't go above and beyond on the team. It has really inspired me to lock in on robotics. Review the License for information about how to use my process, and files. 
+This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
 
