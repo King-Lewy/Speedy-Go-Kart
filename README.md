@@ -31,6 +31,7 @@ The goal for this desing, is a safe go kart that can go 25mhp that I can use. Th
 This will be a go-kart that can go on any terrain, because of all terrain tire, but I will use it primarly on pavement, but keep in mind, the tire will degrade faster on pavement than off road/dirt trails. 
 
 Quite simply, it is a go kart that is fully custom, a diy build, that was designed by a teenager. 
+
 ![Go Kart Frame (designed by me)](Images/Go%20Kart%20Frame.png)
 
 ## How to Build It
