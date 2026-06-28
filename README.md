@@ -56,7 +56,9 @@ This might be a little self explanitory, but you would first make sure that ther
 Those are the basic practices used to start and stop the go kart. 
 
 ## Mentorship
-For my design, it requires me to know how to weld, and to make sure that my design is stable, and robust. So, after making the design, I reached out to an engineer to have him work with me and mentor me on how to make it better. This will make sure that my design is ready for high speeds
+For my design, it requires me to know how to weld, and to make sure that my design is stable, and robust. So, after making my orignial design, I reached out to an engineer to have him work with me and mentor me on how to make it better. He reviewed my design to ensure that it can withstand high speeds, and function properly. His overal opinion was that it was originally a good design, but to make it even better there were a few things that I could do. For example, he advised adding more triangles and support at a different plane, because currently the design was pretty 2 dimensional for the frame, excluding the handrails. So we talked about ways that I could do that, and we decided that if we added supports from the handrail that attached diagonally to the back of the frame, it would make it a lot stronger. Also, we reviewed which pieces I had put on the original frame, and ended up removing excess support. 
+
+You can see the differences between the versions in the CAD/Images folder. The newest designs after mentorship are marked as the final design, and the other ones are marked as normal. 
 
 #### Welding
 I have never welded, and quite simply, didn't know how they worked. So I did some research to understand the different welds, and even what a tack weld was. One big problem, is that I don't have a welder myself, but fortuatlly, a lot of my neighbors do. I have a list of people that I will reach out to, and I know that at least one of them will mentor me and teach me how to weld, and help me through the process of welding my frame. 
