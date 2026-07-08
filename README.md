@@ -45,7 +45,10 @@ The process I will use to build it is as follows:
 5. Drill in the pedals, and weld on a part for the pedal springs. Connect the brake and throttle cable to either of the pedals.
 6. Connect the throttle cable to the throttle, and the brake cable to the mechanical disc brake.
 
-This is just a standard process for building the go-kart, if there are any other problems that occur, I will deal with them as they come. 
+This is just a standard process for building the go-kart, if there are any other problems that occur, I will deal with them as they come and let you know. 
+
+![Nailing Frame on Plywood](Images/Nailing%20the%20Frame%20onto%20Playwood%20Example.png)
+
 
 ### How to Actually use the Go-Kart
 The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
@@ -71,6 +74,8 @@ I know that it may seem like I am requesting for more money than I deserve, but 
 After I shiped my project, I still was spending hours on the project, I just can't record them, because the journals are locked. I wanted to ship the project a little early, because I wanted to get through the review queue, but I didn't realize the journals would lock. My bad. I should have realized that though, so that is kind of my fault. I did quite a few things after I shipped the project, and I am going to treat this kind of like a journal. I researched how is the best way to weld my project, considering I am a beginner, and learned a few things. Because I am going to use a neighbor's welder, I want to have everything prepared before I go to weld. The main thing that I learned after hours and hours of research, is that the best way to start, is cutting all the pieces to length, the NAILING THEM TO PLYWOOD! This may seem a little weird at first, but it is actually genius. You nail them to plywood (4x8) to the exact shape of the frame, and then proceed to tack weld them to keep their shape. When I say nail, I mean nail around the outsides, so they can't move. I just added this to the build process, but this was achieved AFTER shipping. Also, I kept on reaching out to the same mentor, and he said that he had some tools I could use to help cut the metal for my project :)
 
 Also, I designed an extension to the handlebar (which you will be able to find in images) because I realized that it might not be close enough to the driver while going. This was only achieved after reviewing my design for a while. 
+
+![Steering Wheel Extension](Images/Steering%20Wheel%20Extension.png)
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
