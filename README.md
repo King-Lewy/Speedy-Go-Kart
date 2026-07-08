@@ -39,7 +39,7 @@ Quite simply, it is a go kart that is fully custom, a diy build, that was design
 ## How to Build It
 The process I will use to build it is as follows: 
 1. Buy the parts list
-2. Review and cut the metal using an angle grinder to the dimesions of the frame. Review the CAD file for exact dimesions.
+2. Review and cut the metal using an angle grinder (or any other tool that cuts metal easily) to the dimesions of the frame. Review the CAD file for exact dimesions.
 3. Weld the frame. I will do this by buying a 4x8 sheet of plywood, nailing the frame in the right dimensions onto the plywood so it cannot move, then tack welding the steel to the shap of the frame. Make sure to measure twice, and weld once.
 4. Add on all of the components, Including wheels, and assemble the live axle kit.
 5. Drill in the pedals, and weld on a part for the pedal springs. Connect the brake and throttle cable to either of the pedals.
@@ -62,6 +62,15 @@ You can see the differences between the versions in the CAD/Images folder. The n
 
 #### Welding
 I have never welded, and quite simply, didn't know how they worked. So I did some research to understand the different welds, and even what a tack weld was. One big problem, is that I don't have a welder myself, but fortuatlly, a lot of my neighbors do. I have a list of people that I will reach out to, and I know that at least one of them will mentor me and teach me how to weld, and help me through the process of welding my frame. 
+
+# For Macondo Reviewer
+This is a section just for the macondo reviewer to look at, so don't worry about it if you are just looking. I am writing this because the journal entrys and everything is closed on macondo during review, and I need to make some things clear. 
+### Price vs Hours
+I know that it may seem like I am requesting for more money than I deserve, but please let me plead my case. The first thing I want to mention, is that even though the hours seem low, there is two main things. First, that is the most I have ever spent on anything, and I felt like it was a lot while I was doing it, and am writing this after I shipped, after thinking about my ship. Next, I spent many more hours than I actually recorded in Macondo, because either I didn't document it while I was going, or I just honestly under marked hours or forgot to journal.
+#### Hours after Ship
+After I shiped my project, I still was spending hours on the project, I just can't record them, because the journals are locked. I wanted to ship the project a little early, because I wanted to get through the review queue, but I didn't realize the journals would lock. My bad. I should have realized that though, so that is kind of my fault. I did quite a few things after I shipped the project, and I am going to treat this kind of like a journal. I researched how is the best way to weld my project, considering I am a beginner, and learned a few things. Because I am going to use a neighbor's welder, I want to have everything prepared before I go to weld. The main thing that I learned after hours and hours of research, is that the best way to start, is cutting all the pieces to length, the NAILING THEM TO PLYWOOD! This may seem a little weird at first, but it is actually genius. You nail them to plywood (4x8) to the exact shape of the frame, and then proceed to tack weld them to keep their shape. When I say nail, I mean nail around the outsides, so they can't move. I just added this to the build process, but this was achieved AFTER shipping. Also, I kept on reaching out to the same mentor, and he said that he had some tools I could use to help cut the metal for my project :)
+
+Also, I designed an extension to the handlebar (which you will be able to find in images) because I realized that it might not be close enough to the driver while going. This was only achieved after reviewing my design for a while. 
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
