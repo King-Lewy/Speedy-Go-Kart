@@ -40,7 +40,7 @@ Quite simply, it is a go kart that is fully custom, a diy build, that was design
 The process I will use to build it is as follows: 
 1. Buy the parts list
 2. Review and cut the metal using an angle grinder (or any other tool that cuts metal easily) to the dimesions of the frame. Review the CAD file for exact dimesions.
-3. Weld the frame. I will do this by buying a 4x8 sheet of plywood, nailing the frame in the right dimensions onto the plywood so it cannot move, then tack welding the steel to the shap of the frame. Make sure to measure twice, and weld once.
+3. Weld the frame. I will do this by buying a 4x8 sheet of plywood, nailing the frame in the right dimensions onto the plywood so it cannot move, then tack welding the steel to the shap of the frame. Make sure to measure twice, and weld once. Weldingn is important, so after you nail it to the frame, you need to tack weld each connection point on the top and bottom so it keeps it form. After you have the whole frame tack welded, then you will go through and weld the rest of the frame with sturdier welds. 
 4. Add on all of the components, Including wheels, and assemble the live axle kit.
 5. Drill in the pedals, and weld on a part for the pedal springs. Connect the brake and throttle cable to either of the pedals.
 6. Connect the throttle cable to the throttle, and the brake cable to the mechanical disc brake.
