@@ -77,7 +77,7 @@ Also, I designed an extension to the handlebar (which you will be able to find i
 
 ![Steering Wheel Extension](Images/Steering%20Wheel%20Extension.png)
 
-I have spend tons and tons of hours on this project that either haven't been recorded, or have been spent after shipping the project.
+I have spend tons and tons of hours on this project that either haven't been recorded, or have been spent after shipping the project. I think that I have spent over double the hours recorded in macondo. 
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
