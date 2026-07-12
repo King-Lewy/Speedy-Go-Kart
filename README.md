@@ -82,7 +82,6 @@ I organized the files by:
 5. Steering Wheel
 6. Wheels (not identical to the real ones, just the CAD ones)
 7. Propulsion (Torque converter, Predator 212cc motor
-8. Steering Wheel
 
 *It is important to undertand how I named my files. If it says FINAL, it means that it is the desing after mentorship, while if it just says design/assembly, then it is the one before mentorship. The ones that say "Design" means that it will be the chassis, but if it says "Assembly", then it means that it is the assembly that has the wheels, steering wheel, chassis, engine, torque converter all together. 
 
