@@ -37,15 +37,16 @@ Quite simply, it is a go kart that is fully custom, a diy build, that was design
 *For the rear axle, it looks like a square in CAD, but IRL, it will be the live axle.
 
 ## How to Build It
-The process I will use to build it is as follows: 
-1. Buy the parts list
+The process I will use to build it is as follows (and will get more detailed after I actually buy the parts and buy it): 
+1. Buy the parts list, trying to find the cheapest shipping possible. 
 2. Review and cut the metal using an angle grinder (or any other tool that cuts metal easily) to the dimesions of the frame. Review the CAD file for exact dimesions.
-3. Weld the frame. I will do this by buying a 4x8 sheet of plywood, nailing the frame in the right dimensions onto the plywood so it cannot move, then tack welding the steel to the shap of the frame. Make sure to measure twice, and weld once. Weldingn is important, so after you nail it to the frame, you need to tack weld each connection point on the top and bottom so it keeps it form. After you have the whole frame tack welded, then you will go through and weld the rest of the frame with sturdier welds. 
-4. Add on all of the components, Including wheels, and assemble the live axle kit.
-5. Drill in the pedals, and weld on a part for the pedal springs. Connect the brake and throttle cable to either of the pedals.
-6. Connect the throttle cable to the throttle, and the brake cable to the mechanical disc brake.
+3. Weld the frame. I will do this by buying a 4x8 sheet of plywood, nailing the frame in the right dimensions onto the plywood so it cannot move, then tack welding the steel to the shap of the frame. Make sure to measure twice, and weld once. Weldingn is important, so after you nail it to the frame, you need to tack weld each connection point on the top and bottom so it keeps it form. After you have the whole frame tack welded, then you will go through and weld the rest of the frame with sturdier welds. You will also have to weld on the motor mounting plate on the back of the frame where it is shown on the CAD.  
+4. Add on all of the components, Including wheels, and assemble the live axle kit. This means connecting the bearings and bearing hangers to the rear axle, screwing on the wheels, sprocket, and disc brake on the live axle using the lock nuts. Then weld on the bearing hangers to your steel frame on the two sides of the frame on the back. For the front wheels, you will weld ont the spindle making sure that the steering arms are using ackerman steering. That means the steering arms have to make a straight line that intersects the middle of the back axle. It is kind of confusing, so if you need more help watch a video about it. You will then connect the Rack and Pinion Steering to the steering rods. You will then weld on the 5/8 metal bar onto the right spot on the frame, and weld on the .717 bearing onto the rod. Then thread through the rack and pinion steering mechanism, to make sure it stays in place, then screw on the steering wheel (that you can 3d print). Last you will screw on the motor, and put on the torque converter. You have to attach the chain on the torque converter, and the sprocket.
+5. Make or add the seat. You can either buy a 4x8 of plywood and cut out/(nail or screw) together the seat to fit you. Make sure to add screw holes in the middle, and use self tapping metal screws, so you don't have to worry about bolts. If you want a more comfotable seat, you can add on any steat, just make sure that you srew it on using the self tapping screws. 
+6. Drill in the pedals, and weld on a part for the pedal springs. Connect the brake and throttle cable to either of the pedals.
+7. Connect the throttle cable to the throttle, and the brake cable to the mechanical disc brake.
 
-This is just a standard process for building the go-kart, if there are any other problems that occur, I will deal with them as they come and let you know. 
+This is just a standard process for building the go-kart, if there are any other problems that occur, I will deal with them as they come and let you know. More details will come when I build it myself. 
 
 ![Nailing Frame on Plywood](Images/Nailing%20the%20Frame%20onto%20Playwood%20Example.png)
 
