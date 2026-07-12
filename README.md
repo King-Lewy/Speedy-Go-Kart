@@ -71,6 +71,21 @@ Also, I designed an extension to the handlebar (which you will be able to find i
 
 ![Steering Wheel Extension](Images/Steering%20Wheel%20Extension.png)
 
+# Understanding CAD Files
+I organized the CAD files in the repository how I would understand, but this is if you are confused about it. NOTICE: Identical files might be in two different places, as long as they fit the criteria of the folder. 
+
+I organized the files by:
+1. All together
+2. .STEP Files/.F3d Files
+3. Chassis Designs
+4. Assembly Designs
+5. Steering Wheel
+6. Wheels (not identical to the real ones, just the CAD ones)
+7. Propulsion (Torque converter, Predator 212cc motor
+8. Steering Wheel
+
+*It is important to undertand how I named my files. If it says FINAL, it means that it is the desing after mentorship, while if it just says design/assembly, then it is the one before mentorship. The ones that say "Design" means that it will be the chassis, but if it says "Assembly", then it means that it is the assembly that has the wheels, steering wheel, chassis, engine, torque converter all together. 
+
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
