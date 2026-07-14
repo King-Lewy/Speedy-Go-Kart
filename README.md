@@ -104,12 +104,13 @@ I organized the CAD files in the repository how I would understand, but this is 
 I organized the files by:
 1. All together (in no folders for ease of access if you know what you want)
 2. .STEP Files/.F3d/z Files
-3. Chassis Designs (Only the frame, and steering wheel, no wheels, motor and torque converter)
-4. Assembly Designs (The whole go kart put together with wheels and everything)
+3. Chassis Designs (Only the frame, and steering wheel, no wheels, motor and torque converter) The Roll Cage will be added here as well as in its own folder. 
+4. Assembly Designs (The whole go kart put together with wheels and everything) There will be roll cage and no roll cage options. 
 5. Steering Wheel (The actual wheel)
 6. Wheels (not identical to the real ones, just the CAD ones)
 7. Propulsion (Torque converter, Predator 212cc motor)
-8. Other
+8. Roll Cage
+9. Other
 
 I am curious to what the files look like when you dowload them, because I just have them in my computer. In my design I have hidden some bodies and components that I am not using anymore, because I added new ones to take their place. I don't know if when you download the files if they will un-hide the components, so if there are wheels inside of wheels, or a bad steering wheel inside of the new steering wheel, sorry. My fault gang. 
 
