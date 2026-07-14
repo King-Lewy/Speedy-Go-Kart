@@ -76,15 +76,15 @@ Also, I designed an extension to the handlebar (which you will be able to find i
 I organized the CAD files in the repository how I would understand, but this is if you are confused about it. NOTICE: Identical files might be in two different places, as long as they fit the criteria of the folder. 
 
 I organized the files by:
-1. All together
+1. All together (in no folders for ease of access if you know what you want)
 2. .STEP Files/.F3d Files
-3. Chassis Designs
-4. Assembly Designs
-5. Steering Wheel
+3. Chassis Designs (Only the frame, and steering wheel, no wheels, motor and torque converter)
+4. Assembly Designs (The whole go kart put together with wheels and everything)
+5. Steering Wheel (The actual wheel)
 6. Wheels (not identical to the real ones, just the CAD ones)
-7. Propulsion (Torque converter, Predator 212cc motor
+7. Propulsion (Torque converter, Predator 212cc motor)
 
-*It is important to undertand how I named my files. If it says FINAL, it means that it is the desing after mentorship, while if it just says design/assembly, then it is the one before mentorship. The ones that say "Design" means that it will be the chassis, but if it says "Assembly", then it means that it is the assembly that has the wheels, steering wheel, chassis, engine, torque converter all together. 
+*I will have file names say either chassis, or assembly (as dictated above) for any of the atual full go kart designs, and other components will be marked by their names. The steering wheel is called a butterfly steering wheel (just so you know). 
 
 
 ## Overview
