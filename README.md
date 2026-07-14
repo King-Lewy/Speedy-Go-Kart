@@ -1,5 +1,5 @@
 # Speedy-Go-Kart
-A custom go-kart powered by a predator 212cc engine designed to go 25mph+
+A custom go-kart powered by a predator 212cc engine designed to go 25mph+. This design can be made with or without a roll cage depending on your budget, and how you want to make it. 
 
 ![Full Go-Kart Assembly](Images/Go-Kart%20Assembly.png)
 
