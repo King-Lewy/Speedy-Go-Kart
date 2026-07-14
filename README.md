@@ -2,6 +2,7 @@
 A custom go-kart powered by a predator 212cc engine designed to go 25mph+. This design can be made with or without a roll cage depending on your budget, and how you want to make it. 
 
 ![Full Go-Kart Assembly](Images/Go-Kart%20Assembly.png)
+![Full Go-Kart Assembly with Roll Cage](Images/Go%20Kart%20with%20Roll%20Cage.png)
 
 ## Inspiration
 The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmover on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
@@ -78,6 +79,27 @@ Be safe and have fun.
 
 ![Nailing Frame on Plywood](Images/Nailing%20the%20Frame%20onto%20Playwood%20Example.png)
 
+
+# Roll Cage
+The roll cage is an optional addition that you can add onto your go kart if you want. I personally will not be, but I designed it so if you want, you can, and it will fit the kart. This is a simple design for the roll cage that allows enough room over your head to be comfortable, but isn't too high. This is made out of 1 1/4 in steel tubing, but unlike the frame, it is round tubing rather than square tubing. This is completely optional, and can function just fine with or without it. I would recomend it if your are going all terrain, or if you will be racing or doing something like that, but if it will be used for something, then you will be fine without it. 
+
+![Full Go-Kart Assembly](Images/Go%20Kart%20Roll%20Cage.png)
+
+### Instructions for Building the Roll Cage
+This is only if you are adding the roll cage into your build, which I am not, so I'm sorry if the instructions aren't as good as they should be. 
+#### 1. Buy Metal
+You need to buy 1.25in 11 gauge metal to fit your kart. In the metal cuts foler I will have the exact amounts and distance that you need all recorded. This will also tell you where each part will go. 
+#### 2. Bend Metal
+For the roll cage, there are 6 pieces of metal that you will have to bend to make the whole thing stronger. The reason why you bend the metal rather than just doing welds, once you bend it, it changes it's properties, and is less likely to bend again (in a crash). The six pieces will be bend according to the CAD, so review the CAD before bending. The pieces that you need to bend will be shown in the Roll Cage metal cuts folder, but they are the ones that connect to the frame, and the very top piece. The only ones that you don't need to bend are the straight pieces that connect the bent pieces. 
+#### 3. Weld the Cage
+You will start by using the same plywood method as for the frame, but this time it is with round tubing. This shouldn't change anything, but it might make it a little bit harder. You need to first weld the two sides seperatly, and you should see the shape of the cage forming after you weld it. To give it it's actual shape, you need to then weld on the 3 support beams that connect the two sides. This might be the hardest part, because you need to keep both sides of the frame perfectly straight while you tack weld on the 3 beams, then you will fully weld them on after. It might be necessary to have people holding up the frame for you while you weld. 
+#### 4. Weld it onto the Frame
+This should be the last part of the process, and shouldn't be too hard. Because you now have the whole roll cage welded, you just need to put it over the completed go kart, and weld it on. It should be in place just by putting it on, then you will tack weld each connection point, the fully weld it after wards. After this, you should be set to go. 
+
+I am sorry if this isn't detailed enough, I am not building it myself, so let me know if there is anything you would do differently. 
+
+
+![Full Go-Kart Assembly](Images/Another%20go%20kart%20with%20roll%20cage%20assembly%20image.png)
 
 ### How to Actually use the Go-Kart
 The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
