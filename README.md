@@ -103,7 +103,7 @@ I organized the CAD files in the repository how I would understand, but this is 
 
 I organized the files by:
 1. All together (in no folders for ease of access if you know what you want)
-2. .STEP Files/.F3d Files
+2. .STEP Files/.F3d/z Files
 3. Chassis Designs (Only the frame, and steering wheel, no wheels, motor and torque converter)
 4. Assembly Designs (The whole go kart put together with wheels and everything)
 5. Steering Wheel (The actual wheel)
