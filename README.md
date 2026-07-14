@@ -1,7 +1,7 @@
 # Speedy-Go-Kart
 A custom go-kart powered by a predator 212cc engine designed to go 25mph+
 
-![Full Go-Kart Assembly](Images/Final%20Go%20Kart%20Assembly%20Design.png)
+![Full Go-Kart Assembly](Images/Go-Kart%20Assembly.png)
 
 ## Inspiration
 The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmover on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
@@ -47,7 +47,7 @@ This will be a go-kart that can go on any terrain, because of all terrain tire, 
 
 Quite simply, it is a go kart that is fully custom, a diy build, that was designed by a teenager. 
 
-![Go Kart Frame (designed by me)](Images/Final%20Go%20Kart%20Frame%20Design.png)
+![Go Kart Chassis](Images/Go-Kart%20Chassis.png)
 
 # Building It Step by Step
 This is just a guid for putting together the kart, but keep in mind I haven't done it yet, so more info is soon to come. 
