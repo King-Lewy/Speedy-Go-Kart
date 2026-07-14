@@ -111,10 +111,10 @@ I organized the files by:
 7. Propulsion (Torque converter, Predator 212cc motor)
 8. Other 
 
+*I will have file names say either chassis, or assembly (as dictated above) for any of the actual full go kart designs, and other components will be marked by their names. The steering wheel is called a butterfly steering wheel (just so you know). 
+
 #### Steel Tube Caps
 For this design, there might be some exposed tubing, that debris might be able to get into. I designed a steel tube cap that you can 3d print and put in any exposed holes in the tubing, to look better, and not let any debris in. You can find an image in the image folder, and the CAD in its file. 
-
-*I will have file names say either chassis, or assembly (as dictated above) for any of the atual full go kart designs, and other components will be marked by their names. The steering wheel is called a butterfly steering wheel (just so you know). 
 
 
 ## Overview
