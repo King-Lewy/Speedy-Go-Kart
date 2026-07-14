@@ -1,0 +1,26 @@
+Distance (mm),Distance (in),Quantity,Where on the go kart?
+990.6,39,2,"This is the diagonal bar that connects the front and the back. Also, the side panels weld on to these. The part that will weld onto the back of the kart is a 97.3 degree angle, and the part in the front is a 86.3"
+1066.8,42,1,"Middle Bar where the seat screws on to. (in cad it looks like it goes all the way to the front, but it will have to be cut, so this is one of the cuts."
+203.2,8,1,Middle bar in the front. Welds on to the first front metal horizontal beams. Paralell to the previous one.
+177.8,7,1,"Middle Bar in the very front of the kart. NOT the horizontal beam that is the furthest out in the front, just the beam in the very middle."
+711.2,28,1,"Horizontal beam that welds onto the big metal bar in the middle (first on in the back ). Straight Cut. In the back, first horizonal beam"
+313.38,12.3377953,2,"These are the middle horizontal beams that will connect onto the seat, and middle bar. One side will be cut straight, the other at a 82.7 degree angle. "
+635,25,2,Furthest wide portion of the go kart that is part of the side panel. One for each side
+150.446,5.923070866,2,Bottom portion of side panel that connects to main frame. One on each side
+228.6,9,2,Top portion of side panel that connects to main frame. One on each side
+457.2,18,1,"First Horizonal beam in the front of the go kart. One that goes through the middle, and connects to the middle bar. Both sides straight cut. "
+787.4,31,1,This is the front beam that the spindle welds onto. Cut it straight on each end.
+177.8,7,2,"This will weld on the top of the horizontal beam for the spindles, as the outside of the frame in the front. Will weld onto the frontmost piece of the go kart. Straight cuts. One for each side."
+228.6,9,2,"This will weld below the horizontal beam for the spindles, and connects to the diagonal bar, as well as the first horizonal beam for the front. One for each side. Straight cuts."
+508,20,1,Frontmost bar on the go kart that connects each end. Straight cuts.
+431.8,17,2,"These are the verticle bars that connect to the furthest back horizontal bar, and the diagonal bar. Straight cuts. "
+762,30,1,The very back of the kart. Horizontal bar. Straight cuts. 
+330.2,13,2,These are where you will weld on the motor mounting plate. They connect to the two parellel beams in the back. 
+965.2,38,2,Top of the handrails. Straight Cut.
+152.4,6,4,connector pieces to connect handrail to the frame. Straight Cuts.
+736.6,29,1,Horizonal Beam in the air to connect handrails. Straight cuts
+397.573,15.65248031,2,Angles Pieces to connect the handrails to the back of the frame.
+,,,
+,,,
+Total: 618.9,,,
+Keep it sub 660 (60ft),,,
