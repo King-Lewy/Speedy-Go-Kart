@@ -141,6 +141,9 @@ I am curious to what the files look like when you dowload them, because I just h
 #### Steel Tube Caps
 For this design, there might be some exposed tubing, that debris might be able to get into. I designed a steel tube cap that you can 3d print and put in any exposed holes in the tubing, to look better, and not let any debris in. You can find an image in the image folder, and the CAD in its file. 
 
+### Steering Wheel
+For the steering wheel, (for the provided CAD) there is something that you must know. When you 3d print it, you should print the spacer and wheel seperatly, so you can adjust based on the size of the rider. Also, this is very important, when you 3d print it, it NEEDS to be on high infill, because there is a lot of stress on the connection points between the handle and middle, and they are pretty thin, so make sure that it is high infill (and a good pattern). If you don't, then it will break. (I learned that the hard way)
+
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
