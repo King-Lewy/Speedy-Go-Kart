@@ -1,0 +1,49 @@
+Name of Welder Type,What it's good for:,Extra,Description,,,,,,,
+MIG (Metal Inert Gas),Easiest for Beginners,"There are Flux-Core Arc Welding as well as Gas infused/shielded versions.  Also known as wire-feed welding, MIG acts almost like a ""point and shoot"" tool, making it highly recommended for first-time fabricators.",,,,,,,,
+TIG (Tungston Inert Gas),Best for precision and aesthetics,Need clean metal,,,,,,,,
+Stick Welder (MMA sometimes),Bes for Outdoor Work,DON'T use on thin metals (AKA my go kart),,,,,,,,
+Multi Process Welder,The most Versitile,"Multi-process welders are versatile power sources that combine multiple welding techniques (they can have MIG, TIG, Stick, and Flux-core in a single unit)",,,,,,,,
+,,,,,,,,,,
+video: https://www.youtube.com/watch?v=5M9I_bBrnZ0,,,,,,,,,,
+,Pros:,Cons:,,,,,,,,Purchasing Options:
+Mig Flux-Core Arc Welder,Works Well With 14 gauge and thicker metal (go-kart is 14 gauge),Can be very messy (need to clean slag),,,,,,,,Low tier: https://www.harborfreight.com/easy-flux-125-amp-welder-57861.html?hftm_sc=292&hftm_source=google
+.3 wire not .35 for this project,"""Good for a hobbiest on a budget"" from video",Lots of Smoke,,,,,,,,Middle Range: https://www.lowes.com/pd/Forney-120-Volt-140-Amp-Flux-cored-Wire-Feed-Welder/5018701015?user=shopping&feed=yes&srsltid=AfmBOoqxPqzfquHPsks5-Vy6y7cN-kfUouaFH_n-3hS3CPrcpAJz8JrTOck
+,Portable- and can run without stopping.,Can Splatter,,,,,,,,Slightly Better: https://www.calranch.com/products/tools/welding-soldering/welders/lincoln-electric-century-fc-90-04051k3493-1?srsltid=AfmBOoqWTbPGcg6POY_DEyaY1DXSxKAygXC83orG3Bd391GUdGpQc7k6-30
+,Cheap Upfront and Easy (relativily) to learn,Burn through risk because it runs hotter than the gas version,,,,,,,,
+,Outdoor won't blow away shielding gas,,,,,,,,,
+,,,,,,,,,,
+MIG Gas shielded,No slag/splatter,higher initial cost than the flux version,,,,,,,,Low End: https://www.homedepot.com/p/Lotos-140-Amp-MIG-Wire-Feed-Welder-Flux-Core-Welder-and-Aluminum-Welder-UNG-5-8-in-Hose-Fitting-Regulator-2T-4T-Switch-110V-MIG140/205868750?source=shoppingads&locale=en-US&fp=ggl&srsltid=AfmBOoo2tRLU5HcWZ3JiWjP_X2B74FO5vPfTL-E_UWMn6DcG8nA5Vy0z8Zk
+,Easy to learn (either this or the flux-core is easiest),wind can effect the gas shielding,,,,,,,,Middle tier: https://www.homedepot.com/p/Lincoln-Electric-140-Amp-Weld-Pak-140-HD-MIG-Wire-Welder-w-Magnum-100L-Gun-Sample-Spools-MIG-Wire-and-2-Flux-Cored-Wire-115V-Starter-Kit-K5365-32/324664551?source=shoppingads&locale=en-US&fp=ggl
+,"Beautiful, Clean Welds",heavy and can be hard to move,,,,,,,,Very Premium : https://www.weldstar.com/welder-millermatic-141--1
+,Excellent Thin-Metal Control (is cooler than the flux version),"needs clean metal (if it isn't clean, you have to clean it first)",,,,,,,,
+,Can weld without stopping because of the auto feeding wire.,"You need to buy the gas as well as material, and have to set up the gas too.",,,,,,,,
+,,,,,,,,,,
+Stick Welding,Low Cost,"Can only weld medium to thick thickenesses, because it is very hot, and will burn through. ",,,,,,,,"For Stick I will not be using it for this project, so I didn't give any options"
+,Can weld dirty metal,Hard to learn,,,,,,,,This is because it doesn't fit the project well.
+,Very very portable (just rods and the machine),lot of stops because the rod burns down,,,,,,,,
+,Windproof,"Has lots of sparks, and is messy",,,,,,,,
+,,You have to clean up a lot of slag,,,,,,,,
+,,,,,,,,,,
+TIG Welding,Very Precise,You have to manually add metal,,,,,,,,"For TIG I will not be using it for this project, so I didn't give any options"
+,Can be used on any metal,"Challenging to learn (probably hardest) because of filling metal, and not letting it touch ",,,,,,,,This is because it doesn't fit the project well.
+,High quality welds,Very very slow,,,,,,,,
+,No smoke/fumes,Metal needs to be very very clean,,,,,,,,
+,No splatter/slag,Very expensive,,,,,,,,
+,Good aesthetics,Gas can blow away with any wind (like mig gas),,,,,,,,
+,,,,,,,,,,
+Multi process,Versitility (you can have all of the different types),,,,,,,,,Lower End: https://www.vevor.com/mig-welder-c_10053/mig-welder-200amps-welding-machine-4-in-1-gas-mig-flux-core-mig-stick-lift-tig-p_010557540501?adp=gmc&srsltid=AfmBOopgA-fi58yzcQ2SmAk6fK4GBQkz6Dpa7h5wbzDNv58zyyCppOomlIs
+,Cost efficient (you can get a mid tier one for cheaper than dedicated for another type),,,,,,,,,Mid Range (Can weld aluminum): https://yeswelder.com/products/aluminum-mig-welder-mig250sg?variant=41811368214637
+,Garage space (only 1 devie to store with multiple capabilities.,,,,,,,,,Slightly Better: https://www.northerntool.com/products/klutch-dual-voltage-4-in-1-multi-process-welder-200a-mig-flux-core-tig-stick-120-230v-inverter-welder-lightweight-mig-ready-welding-machine-for-steel-stainless-and-aluminum-5875893?srsltid=AfmBOooIOw5UE9hcu0_zITLVkWe1QP6UR2ujv3eMmExEEFC38Ug7-4qlvOA
+,"Cool Technology (You select your process and metal thickness, and the machine automatically programs a matching voltage and wire feed speed for you—making it incredibly beginner-friendly)",,,,,,,,,
+,"You can switch which type to use based on the weather or other circumstances, so if there is wind, use flux, no wind, mig, or if you have different projects you need to work on, it will work for all. ",,,,,,,,,
+,,"One point of failure, so if the circuit board breaks, then all features won't work.",,,,,,,,
+,,TIG has disadvantages (doesn't have a foot pedal),,,,,,,,
+,,TIG can't weld on aluminum (in most cases),,,,,,,,
+,,"Hard setup swaps. Sometimes it can be hard, tedious, or annoying to switch between proesses)",,,,,,,,
+,,Dedicated welders for certain types can have higher quality unless you buy an expensive one. ,,,,,,,,
+,,,,,,,,,,
+"My opinion: I think that the best ones are either the multi process, flux mig, or gas mig. It depends on what you want. If you want this to be easy, low cost, and just for this project, go flux. If you want a little nicer, go mig gas. If you want a welder for not only this project, I would do the multi process one. ",,,,,,,,,,
+,,,,,,,,,,
+Welding Helmets,,,,,,,,,,
+Cheap: https://www.amazon.com/Omolith-Darkening-Welding-Helmet-Powered/dp/B0CHB74FC6/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.9EbFhUPSE0tfuScOGqPvqdQvU78mcqQIC7hrIJO6P18hQGboxv6oAls-8rYuP2VEzpAO-WExC7-ek5k0fP26IsouM-KjW8JsyXwt38Gd4r4b2GHYCR10A2HEaLZMQ2zyl1hgmQsrlNRURqW7SRJxmtau8f3tsh8ofqNVWSDgwFXiO-09hDPB19Kea78OvQl-eiISWneVRaS2HDGaZQoSaY92WFrQS0-TVW2-C-uhyaPnKBEBX2QOsubzMihjd9FMHBRwF04y4oaJ7Br9hs7UBcn2B-aTKrpJL0_xuBDgJJI.x4mRgcJaaaxBg-bu4qX753DpZuQa4fVldD7fVlTa7i4&dib_tag=se&hvadid=777773451774&hvdev=c&hvexpln=67&hvlocphy=9051778&hvnetw=g&hvocijid=18312385217965165728--&hvqmt=b&hvrand=18312385217965165728&hvtargid=kwd-2473291839290&hydadcr=23316_13822049&keywords=omolith%2Bwelding%2Bhelmet&mcid=fd408f9444e53e9cb004aeb4bcf36731&qid=1784160775&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1,,,,,,,,,,
+A little more expensive (not much) but much better: https://www.amazon.com/dp/B07M5WKCYX?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1,,,,,,,,,,
