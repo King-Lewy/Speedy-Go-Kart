@@ -144,6 +144,11 @@ For this design, there might be some exposed tubing, that debris might be able t
 ### Steering Wheel
 For the steering wheel, (for the provided CAD) there is something that you must know. When you 3d print it, you should print the spacer and wheel seperatly, so you can adjust based on the size of the rider. Also, this is very important, when you 3d print it, it NEEDS to be on high infill, because there is a lot of stress on the connection points between the handle and middle, and they are pretty thin, so make sure that it is high infill (and a good pattern). If you don't, then it will break. (I learned that the hard way)
 
+## Welding Analysis
+So, for those of you who don't have a welder, and are looking to purchase one, you're in luck. For this project, I did an analysis on the different types of welders, and their pros and cons, and how they work. You should definitly review this before welding, so you know which type of welder to use as you go. I think that the only real "wrong option" is stick welding, so if you have one of those, I wouldn't use it here, because it would burn through the 14 gauge metal. Review the document for a better understanding of welders, and it also provides some links to welders, and face masks. 
+
+My overall opinion is that for this project MIG gas shielded, or flux core welding would work well, but maybe MIG gas a little better. If you want to have lots of options though, I would get the multi-process welders. 
+
 
 ## Overview
 This project has really made me improve in a lot of skills, such as CAD, and understanding vehicles. This has been a learning experience for me, because I have never actually done something like this, and usually I only do sports. Review the License to know how to use this info. 
