@@ -136,6 +136,17 @@ I organized the files by:
 
 I am curious to what the files look like when you dowload them, because I just have them in my computer. In my design I have hidden some bodies and components that I am not using anymore, because I added new ones to take their place. I don't know if when you download the files if they will un-hide the components, so if there are wheels inside of wheels, or a bad steering wheel inside of the new steering wheel, sorry. My fault gang. 
 
+Here is the list of bodies that you will need to hide if you want it to look like the pictures that I have shown:
+Chassis -
+Body 22 (Old steering wheel)
+Body 39,40,41, 42 (Four makeshift wheels that aren't at all accurate, I just put them it earler to make it look like a go kart before I made an assembly)
+
+Assembly - 
+Go kart design folder - Body 22 (Old steering wheel)
+Go kart design folder - Body 39,40,41, 42 (Four makeshift wheels that aren't at all accurate, I just put them it earler to make it look like a go kart before I made an assembly)
+
+Butterfly steering wheel design folder - Body 3. This is the 5 inch spacer that I design in the butterfly file, and it transfered over to the assembly. Right now it isn't lined up correctly, so it will look like it is intersecting with the rack and pinion steering. 
+
 *I will have file names say either chassis, or assembly (as dictated above) for any of the actual full go kart designs, and other components will be marked by their names. The steering wheel is called a butterfly steering wheel (just so you know). 
 
 #### Steel Tube Caps
