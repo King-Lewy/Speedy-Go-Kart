@@ -101,6 +101,23 @@ I am sorry if this isn't detailed enough, I am not building it myself, so let me
 
 ![Full Go-Kart Assembly](Images/Another%20go%20kart%20with%20roll%20cage%20assembly%20image.png)
 
+### Instructions for Building the Spoiler. 
+This is the spoiler for the go kart. This cannot be used if you are using the roll cage (it wouldn't fit). Keep in mind this had no actual value for aerodynamics or anything unless you are going 50+ (which this kart is only going 30). It is mainly just for aesthetic. I will not actually be building this myself, so I hope the instructions are clear. 
+
+#### 1. Buy the metal
+So, you will need two different types of metal. 16 gauge steel plating, and 14 gauge steel square tubing 1". Review the metal cut document for the exact amount you need. 
+
+#### 2. Cut the metal
+You can review the metal cut section for the exact dimensions, but you need to have each of the 14 gauge steel tubing pieces be cut before you start.
+
+#### 3. Weld the spoiler. 
+The best way to do this is to start with 1 one of the perpendicular connections (the piece that connects onto the frame, and the one going up). You will start by welding together the two seperate "L"s. Then you will weld those two pieces onto the frame. You will position these at the very edge of each side of the frame, with the long side of the L pointing up. Then you will weld on the 38x8 in 16 gauge steel plate on top of those two beams, with the beams, with 4 inches sticking out on each side of the brackets. 
+
+#### 4. Add the Triangles. 
+Because this spoiler is mainly just for aesthetic, you probably should add the triangles, but it isn't necessary. You just have to cut out two triangles that are 8 inches long out of the steel 16 gauge plating, then any height. Then you weld on the traingles to the 16 gauge steel plating for the spoiler. 
+
+* 16 gauge steel is very thin, so be careful while welding to avoid burning through. 
+
 ### How to Actually use the Go-Kart
 The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
 
@@ -132,7 +149,8 @@ I organized the files by:
 6. Wheels (not identical to the real ones, just the CAD ones)
 7. Propulsion (Torque converter, Predator 212cc motor)
 8. Roll Cage
-9. Other
+9. Spoiler
+10. Other
 
 I am curious to what the files look like when you dowload them, because I just have them in my computer. In my design I have hidden some bodies and components that I am not using anymore, because I added new ones to take their place. I don't know if when you download the files if they will un-hide the components, so if there are wheels inside of wheels, or a bad steering wheel inside of the new steering wheel, sorry. My fault gang. 
 
