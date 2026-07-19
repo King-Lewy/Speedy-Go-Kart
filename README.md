@@ -1,9 +1,9 @@
 # Speedy-Go-Kart
-A custom go-kart powered by a predator 212cc engine designed to go 25mph+. This design can be made with or without a roll cage depending on your budget, and how you want to make it. 
+A custom go-kart powered by a predator 212cc engine designed to go 25mph+. This design can be made with or without a roll cage or spoiler depending on your budget, and how you want to make it. The spoiler is just for aesthetic because the kart will go too slow for it to matter, and you cannot have both a spoiler and roll cage. It doesnt fit. 
 
 ![Full Go-Kart Assembly](Images/Go-Kart%20Assembly.png)
 ![Full Go-Kart Assembly with Roll Cage](Images/Go%20Kart%20with%20Roll%20Cage.png)
-
+![Full Go-Kart Assembly with spoiler](Images/Go-Kart-with-Spoiler.png)
 ## Inspiration
 The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmover on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
 
@@ -116,7 +116,9 @@ The best way to do this is to start with 1 one of the perpendicular connections 
 #### 4. Add the Triangles. 
 Because this spoiler is mainly just for aesthetic, you probably should add the triangles, but it isn't necessary. You just have to cut out two triangles that are 8 inches long out of the steel 16 gauge plating, then any height. Then you weld on the traingles to the 16 gauge steel plating for the spoiler. 
 
-* 16 gauge steel is very thin, so be careful while welding to avoid burning through. 
+* 16 gauge steel is very thin, so be careful while welding to avoid burning through.
+
+![Spoiler](Images/Spoiler.png)
 
 ### How to Actually use the Go-Kart
 The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
@@ -133,10 +135,10 @@ For my design, it requires me to know how to weld, and to make sure that my desi
 I have never welded, and quite simply, didn't know how they worked. So I did some research to understand the different welds and different types of weldes, and even what a tack weld was. One big problem, is that I don't have a welder myself, but fortuatlly, a lot of my neighbors do. Also, recently I was told that my dad might get a welder, and for that reason I started to research welders. I talk more about that below. But, I have a neighbor that I reached out to, and he said that he would definitly teach me how to weld, and that I could come over anytime. Another benefit is that he has the perfect type of welder, and scrap metal to practice on. Even if my family gets a welder, I might still do it with the neighbor, because he can teach and mentor me as we go. 
 
 
-Also, I designed an extension to the handlebar (which you will be able to find in images) because I realized that it might not be close enough to the driver while going.
+Also, I designed an extension to the handlebar (which you will be able to find in images) as well as a sprocket protector (optional) because I realized that it might not be close enough to the driver while going.
 
 ![Steering Wheel Extension](Images/Steering%20Wheel%20Extension.png)
-
+![Sprocket Protector](Images/Sprocket%20Protector.png)
 # Understanding CAD Files
 I organized the CAD files in the repository how I would understand, but this is if you are confused about it. NOTICE: Identical files might be in two different places, as long as they fit the criteria of the folder. 
 
