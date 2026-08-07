@@ -1,8 +1,8 @@
 ﻿## Inspiration
-The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmover on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
-
+The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmower on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
 
 When we got out of school, I brought up making a go kart out of the lawnmower, and I had mixed reactions from my friends. I decided that I wanted to make the go kart (because it would be a good experience, and I would learn lots of things), and I would do it either by myself, or with a friend that wanted to work on it a lot with me (turned out to be just me). I then did some research about what I should use for the lawnmower go-kart, and how fast it would go. It turned out that using the lawnmower motor, it wouldn't go very fast, so I started to transition to the next phase of my project. 
+
 #### Getting Parts
 I knew that one of my neighbors used to have go kart parts because he was making a go kart, but then gave up, so I reached out to see if I could have any of his old parts. Keep in mind, I hadn't yet researched about how much a go kart would cost, or even how to make one. It was still a planning phase. I didn't even know about hack club macondo at this point either. 
 
@@ -36,7 +36,7 @@ I didn't think that I needed to add stuff like the motor and wheels, but I chang
 
 
 ### Adding On
-In this stage of the project, I added most of the big components to an assembly. I put it in the frame, but then realized that I didn't have any of the other parts, such as the motor, torque converter, real handle bar, and wheels. So, I started my search online for these parts. I was not about to go and CAD a full predator 212 motor, and thankfully, I found one. Then I found a good handle bar, wheels, and later torque converter, which I then downloaded and put into my assembly.
+In this stage of the project, I added most of the big components to an assembly. I put it in the frame, but then realized that I didn't have any of the other parts, such as the motor, torque converter, real handlebar, and wheels. So, I started my search online for these parts. I was not about to go and CAD a full predator 212 motor, and thankfully, I found one. Then I found a good handle bar, wheels, and later torque converter, which I then downloaded and put into my assembly.
 
 
 This is where I actually thought it was going to be the final design, but I wanted to be sure that it was a robust design. So, I reached out to a mentor, and changed the design a bit. You can see what I changed in the mentorship portion below. 
@@ -50,7 +50,6 @@ I also am designing a roll cage, and you can find that file in the CAD folder wh
 
 
 
-
 ## Welding Analysis
 So, for those of you who don't have a welder, and are looking to purchase one, you're in luck. For this project, I did an analysis on the different types of welders, and their pros and cons, and how they work. You should definitely review this before welding, so you know which type of welder to use as you go. I think that the only real "wrong option" is stick welding, so if you have one of those, I wouldn't use it here, because it would burn through the 14 gauge metal. Review the document for a better understanding of welders, and it also provides some links to welders, and face masks. 
 
@@ -59,8 +58,6 @@ My overall opinion is that for this project MIG gas shielded, or flux core weldi
 
 
 I have never welded, and quite simply, didn't know how they worked. So I did some research to understand the different welds and different types of welds, and even what a tack weld was. One big problem is that I don't have a welder myself, but fortunately, a lot of my neighbors do. Also, recently I was told that my dad might get a welder, and for that reason I started to research welders. I will talk more about that below. But, I have a neighbor that I reached out to, and he said that he would definitely teach me how to weld, and that I could come over anytime. Another benefit is that he has the perfect type of welder, and scrap metal to practice on. Even if my family gets a welder, I might still do it with the neighbor, because he can teach and mentor me as we go. 
-
-
 
 
 ## Mentorship
