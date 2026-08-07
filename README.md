@@ -88,12 +88,13 @@ Because this spoiler is mainly just for aesthetic, you probably should add the t
 The first step of actually using the go-kart, is putting it to your exact dimensions. This means you have to adjust the seat to fit your height, by drilling holes into the frame where you want your seat to go, and screwing the seat in. This go-kart isn't designed for someone above 6 feet tall, (keep in mind I am 14, and didn't need that) but you can drill the seat in anywhere else along the middle bar in the frame. 
 
 #### Turning it On, and Using it
-This might be a little self explanitory, but you would first make sure that there is enough gas and oil in the motor, then you start the engine. This will idle the motor, and won't move because of the torque converter, so to actually move, you will have to press on the pedals. The right pedal should connect to the throttle on the motor (using a throttle cable) and the farther you press down the pedal, it should open up the throttle more and more. It is the opposite for the brake cable, because you would put it on the left pedal, and it should pull on the mechanical disc brake, which closes the pads on the actual disc to slow it down. To turn the motor off, you can turn of the power on the engine. 
+This might be a little self explanatory, but you would first make sure that there is enough gas and oil in the motor, then you start the engine. This will idle the motor, and won't move because of the torque converter, so to actually move, you will have to press on the pedals. The right pedal should connect to the throttle on the motor (using a throttle cable) and the farther you press down the pedal, it should open up the throttle more and more. It is the opposite for the brake cable, because you would put it on the left pedal, and it should pull on the mechanical disc brake, which closes the pads on the actual disc to slow it down. To turn the motor off, you can turn of the power on the engine. 
 
 Those are the basic practices used to start and stop the go kart. 
 
-## Mentorship
-For my design, it requires me to know how to weld, and to make sure that my design is stable, and robust. So, after making my orignial design, I reached out to an engineer to have him work with me and mentor me on how to make it better. He reviewed my design to ensure that it can withstand high speeds, and function properly. His overal opinion was that it was originally a good design, but to make it even better there were a few things that I could do. For example, he advised adding more triangles and support at a different plane, because currently the design was pretty 2 dimensional for the frame, excluding the handrails. So we talked about ways that I could do that, and we decided that if we added supports from the handrail that attached diagonally to the back of the frame, it would make it a lot stronger. Also, we reviewed which pieces I had put on the original frame, and ended up removing excess support.  
+
+
+
 
 Also, I designed an extension to the handlebar (which you will be able to find in images) as well as a sprocket protector (optional) because I realized that it might not be close enough to the driver while going.
 
