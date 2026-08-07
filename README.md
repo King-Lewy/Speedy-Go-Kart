@@ -4,42 +4,6 @@ A custom go-kart powered by a predator 212cc engine designed to go 25mph+. This 
 ![Full Go-Kart Assembly](Images/Go-Kart%20Assembly.png)
 ![Full Go-Kart Assembly with Roll Cage](Images/Go%20Kart%20with%20Roll%20Cage.png)
 ![Full Go-Kart Assembly with spoiler](Images/Go-Kart-with-Spoiler.png)
-## Inspiration
-The big question about my story is why. My first go kart thoughts were during spring because my friends and I found a lawnmover on the side of the road during spring clean-up. I half-joked to my friends that we should build a go kart (using the lawnmower motor) during the summer when we have lots of time, so we can have a summer project.
-
-When we got out of school, I brought up making a go kart out of the lawnmower, and I had mixed reactions from my friends. I decided that I wanted to make the go kart (because it would be a good experience, and I would learn lots of things), and I would do it either by myself, or with a friend that wanted to work on it a lot with me (turned out to be just me). I then did some research about what I should use for the lawnmower go-kart, and how fast it would go. It turned out that using the lawnmower motor, it wouldn't go very fast, so I started to transition to the next phase of my project. 
-#### Getting Parts
-I knew that one of my neighbors used to have go kart parts because he was making a go kart, but then gave up, so I reached out to see if I could have any of his old parts. Keep in mind, I hadn't yet reseached about how much a go kart would cost, or even how to make one. It was still a planning phase. I didn't even know about hack club macondo at this point either. 
-
-After reaching out to my neighbor, he responded, and I met up with him. He gave me a 212cc predator motor, and a rack and pinion steering mechanism, and encouraged me to build a go kart, not only because it is fun to use, but also because I can learn a lot along the way. This is one of the nicest dudes by the way. That was the main event that kick-started my go kart project.
-
-## Getting Introduced to Hack Club
-After recieving the motor, I was very convinced that I wanted to make a go kart, but at this point didn't even know how they worked, or how expensive it would be. So, I started to reseach how to build a go kart, and required parts for construction, and it was a shock to see how expensive it would be, but I was still convinced that I wanted to make a go kart, despite the cost and necessary effort. 
-
-I started reseaching which parts I would need, and started making a list of required materials, and it started to add up in expenses. At this point, even though I thought it was expensive, compared to now it was nothing. That is only becuase the parts I was going to use were not at all capable to go high speeds, or ride on pavement. I didn't know that then. After a long research session, my brother came over to talk with me, and introduced me to the hack club programs that might help me fund the project. We started looking at the different programs, and decided that macondo would be my best option. My brother knew about hack club, and their programs, because my brother and I have used them as our bankers for our robotics team (HCB) and he has done hack club programs before. After getting introduced to hack club, I started to work diligently on making my design, little by little, and learning along the way. 
-
-## Original Thoughts and Design
-My design changed a lot between my original thoughts after getting introduced to hack club, and my final project. At first I thought that it would be as simple as buying a cheap back wheel and axle kit, making a frame, and putting it together. After choosing all of the parts that I thought that I would need, I started on my design. I was not very good at CAD, and had only done it mabey once before, so I had a lot to learn. After spending a long time, I relized that my go kart design was way way too small to be going high speeds. This is because the rear axle was very short, and if you turn with a narrow go kart going fast, then you are more likely to tip, fall, and roll. 
-
-### Re-thinking my Design
-After relizing how small the rear axle kit was, I needed to know how to fix the problem, and it required having a much bigger rear axle that was about 40" long. This was a huge set back, because it changed my wheels, go kart size, and practically everthing that I had previously chosen. 
-
-I found new parts and tried to keep them perfectly sized with my current parts that I owned, and the required back axle length. After finding new parts, I started once again on my CAD design. Surprisingly enough, I actually started to make progress, and I made a basic frame that was very 2 dimesional, but looked kind of like a go kart frame. Yippee. This was huge for me, because I had never actually done a big CAD thing before, so it was a big landmark. It didn't have any small details, but is was a frame. 
-
-### Re-Re-thinking my Design
-I knew that I needed to add more details, and make it look like an actual go kart, so I started to hop on the CAD grind. I added both a handle bar, and handle bar support beam, spindles, a seat, and some very basic hand rails. This made the frame actually look like a real go kart, with the seat, and handle bars, I thought that the end was near for this project. 
-
-I didn't think that I needed a to add stuff like the motor and wheels, but I changed my mind later. 
-
-### Adding On
-In this stage of the project, I added most of the big components to an assembly. I put in the frame, but then realized that I didn't have any of the other parts, such as the motor, torque converter, real handle bar, and wheels. So, I started my search online for these parts. I was not about to go and CAD a full predator 212 motor, and thankfully, I found one. Then I found a good handle bar, wheels, and later torque converter, which I then downloaded and put into my assembly.
-
-This is where I actually thought was going to be the final design, but I wanted to be sure that it was a robust design. So, I reached out to a mentor, and changed the design a bit. You can see what I changed in the mentorship portion below. 
-
-# Final Iteration
-After changing everything that the mentor said, I low key just submitted it on hack club. This was a mistake, because there was more to add, and when it got reviewed, they said to have better organized files, better instructions, and better price to hours ratio. So, I started organize files, and search for cheaper parts for everything. This meant changing the CAD to accomodate the cheaper iteams. For example, I decided that it wasn't necessary to have a floor pannel that was expensive on the whole floor, instead I added just a small metal piece to rest your feet when they aren't on the pedal. I also changed the rear axle to be more accuate to the real world axle, because before it was a square (why I did that, I don't know). 
-
-I also am desiging a roll cage, and you can find that file in the CAD folder when it is complete. 
 
 ## What Will It Do?
 The goal for this desing, is a safe go kart that can go 25mhp that I can use. The getting to 25 mph is one of the things that makes it very expensive, because parts have to be strong enough to withstand that high of speeds. Because of that, each part is safe to go all the way up to at least 30 mph, just to be safe. The top speed is achieved through strength of motor (212cc going 3200rpm), wheel size, and gear ratio. This design can easily go faster, by changing the gear ratio from 12 and 72 teeth to anything smaller than 72 teeth on the rear axle sprocket. 
